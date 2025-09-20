@@ -1,5 +1,8 @@
 # Collector
-## How to use?
+## What for?
+- get the details of your team in a systematic way in yaml files, flexible usergroup wise data generation.
+- optimised profile picture fetching using the slack api...
+## How to?
 - Install a slack application on your workspace (after admin approval).
 - oAuth permissions should include read usergroups, read users.
 ```bash
